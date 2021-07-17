@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Phone Call Maker</string>
+    <string name="dial_here">Dial # here</string>
+    <string name="contacts">Contacts</string>
+
+    <!--    Contacts -->
+    <string-array name="contact_list">
+        <item>Emergency (911)</item>
+        <item>Tele Communication (997)</item>
+        <item>Electric Power (999)</item>
+        <item>Addis Ababa Police (0114662121)</item>
+        <item>Red Cross (297)</item>
+        <item>Emergency (911)</item>
+        <item>Tele Communication (997)</item>
+        <item>Electric Power (999)</item>
+        <item>Addis Ababa Police (0114662121)</item>
+        <item>Red Cross (297)</item>
+        <item>Red Cross (297)</item>
+        <item>Red Cross (297)</item>
+        <item>Red Cross (297)</item>
+        <item>Red Cross (297)</item>
+        <item>Red Cross (297)</item>
+        <item>Red Cross (297)</item>
+    </string-array>
+</resources>
